@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D09D4EC2AD441E800507E70 /* OnboardingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D09D4EB2AD441E800507E70 /* OnboardingViewController.swift */; };
 		94B353C72813A6B300B6C232 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B353C62813A6B300B6C232 /* AppDelegate.swift */; };
 		94B353C92813A6B300B6C232 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94B353C82813A6B300B6C232 /* SceneDelegate.swift */; };
 		94B353CE2813A6B300B6C232 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94B353CC2813A6B300B6C232 /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		6D09D4EB2AD441E800507E70 /* OnboardingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewController.swift; sourceTree = "<group>"; };
 		94B353C32813A6B300B6C232 /* NRCOnboarding.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NRCOnboarding.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		94B353C62813A6B300B6C232 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		94B353C82813A6B300B6C232 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -102,6 +104,7 @@
 				94B353C62813A6B300B6C232 /* AppDelegate.swift */,
 				94B353C82813A6B300B6C232 /* SceneDelegate.swift */,
 				94B353FA2813B1B700B6C232 /* OnboardingMessage.swift */,
+				6D09D4EB2AD441E800507E70 /* OnboardingViewController.swift */,
 				94B353CC2813A6B300B6C232 /* Main.storyboard */,
 				94B353CF2813A6B400B6C232 /* Assets.xcassets */,
 				94B353D12813A6B400B6C232 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				94B353C72813A6B300B6C232 /* AppDelegate.swift in Sources */,
 				94B353C92813A6B300B6C232 /* SceneDelegate.swift in Sources */,
 				94B353FB2813B1B700B6C232 /* OnboardingMessage.swift in Sources */,
+				6D09D4EC2AD441E800507E70 /* OnboardingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
